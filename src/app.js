@@ -18,7 +18,7 @@ let generateExcuse = () => {
     "My little brother"
   ];
   let action = ["ate", "peed", "crushed", "broke", "ripped"];
-  let what = ["my homework", "the keys", "my paper", "the proyect", "ripped"];
+  let what = ["my homework", "the keys", "my paper", "the proyect"];
   let when = [
     "before class",
     "with his nose",
