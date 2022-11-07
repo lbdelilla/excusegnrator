@@ -10,9 +10,15 @@ window.onload = () => {
 };
 
 let generateExcuse = () => {
-  let who = ["The dog", "My grandma", "My neighbour's cat ", "My unicorn"];
-  let action = ["ate", "peed", "crushed", "broke"];
-  let what = ["my homework", "the keys", "my paper", "the proyect"];
+  let who = [
+    "The dog",
+    "My grandma",
+    "My neighbour's cat ",
+    "My unicorn",
+    "My little brother"
+  ];
+  let action = ["ate", "peed", "crushed", "broke", "ripped"];
+  let what = ["my homework", "the keys", "my paper", "the proyect", "ripped"];
   let when = [
     "before class",
     "with his nose",
