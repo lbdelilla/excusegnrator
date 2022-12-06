@@ -1,1 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#pbt {
+  border: none;
+  border-radius: 3px;
+  width: fit-content;
+  align-self: center;
+  margin: 10px;
+}
+
+.container-fluid {
+  display: flex;
+  flex-direction: column;
+}
